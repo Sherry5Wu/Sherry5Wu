@@ -2,7 +2,7 @@
 
 I am Jingjing, also called Sherry.
 
-I'm currently studying at Hive Helsinki, a coding school, located at Helsinki Finland.
+I'm currently studying at Hive Helsinki, a coding school, located in Helsinki Finland.
 
 <!--
 **Sherry5Wu/Sherry5Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
